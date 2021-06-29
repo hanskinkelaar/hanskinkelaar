@@ -8,7 +8,7 @@ const HansKinkelaar = {
     'PHP', 'SQL', 'Laravel', 'Bootstrap', 'CSS', 'OpenCV', 'Python'
   ],
   tools: [
-    'Git', 'Control C', 'Control V', 'Stack-Overflow'
+    'Cooming Soon'
   ],
   os: [
     'Elementary OS'

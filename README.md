@@ -11,7 +11,7 @@ const HansKinkelaar = {
     'Cooming Soon'
   ],
   os: [
-    'Elementary OS'
+    'Windows'
   ],
   social: {
     discord: 'Nayeob#2663',

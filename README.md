@@ -1,11 +1,11 @@
 ```js
 const HansKinkelaar = {
   name: 'Hans',
-  age: 17,
+  age: 18,
   location: 'Criciuma, Brazil',
   readme: 'Back-end developer, coming soon full-stack developer.',
   stacks: [
-    'PHP', 'SQL', 'Laravel', 'Bootstrap', 'CSS', 'OpenCV', 'Python', 'HTML'
+    'PHP', 'SQL', 'Laravel', JavaScript, Vue, 'CSS', 'HTML, 'Bootstrap' 
   ],
   tools: [
     'Cooming Soon'

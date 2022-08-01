@@ -5,7 +5,7 @@ const HansKinkelaar = {
   location: 'Criciuma, Brazil',
   readme: 'Back-end developer, coming soon full-stack developer.',
   stacks: [
-    'PHP', 'SQL', 'Laravel', JavaScript, Vue, 'CSS', 'HTML, 'Bootstrap' 
+    'PHP', 'SQL', Laravel, JavaScript, 'Vue', 'CSS', 'HTML, 'Bootstrap' 
   ],
   tools: [
     'Cooming Soon'

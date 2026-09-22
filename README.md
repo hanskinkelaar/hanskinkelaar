@@ -14,7 +14,7 @@ const HansKinkelaar = {
     'Windows'
   ],
   social: {
-    discord: 'Nayeob#2663',
+    other github: 'hanskinkelaar93',
     linkedin: 'Hans Kinkelaar',
   }
 };
